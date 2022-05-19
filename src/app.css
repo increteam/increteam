@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: "Chalktastic";
+	src: url("/fonts/Chalktastic.ttf");
+}
+
+@font-face {
+	font-family: "FredokaOne";
+	src: url("/fonts/FredokaOne.ttf");
+}
