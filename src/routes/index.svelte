@@ -3,9 +3,7 @@
 </script>
 
 <main class="text-white py-28 text-center bg-indigo-600">
-	<h1 class="font-title px-10 text-2xl md:text-4xl uppercase tracking-widest">
-		Manage your work's or school's team to share what you need.
-	</h1>
+	<h1 class="font-title px-10 text-2xl md:text-4xl uppercase megawide">Work Sharing, Better</h1>
 </main>
 
 <div class="py-12 bg-white max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

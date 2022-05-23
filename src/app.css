@@ -11,3 +11,8 @@
 	font-family: "FredokaOne";
 	src: url("/fonts/FredokaOne.ttf");
 }
+
+.megawide {
+	letter-spacing: 0.45em;
+	text-shadow: 0.75em 0.2em 0.9em #080731;
+}
