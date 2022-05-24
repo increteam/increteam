@@ -2,7 +2,7 @@
 	<h1 class="font-title text-4xl md:text-6xl uppercase megawide">teams</h1>
 </main>
 
-<div class="flex justify-center">
+<div class="grid p-4 sm:grid-cols-2 md:grid-cols-4 place-items-center gap-6">
 	<a href="/teams/id">
 		<div class="rounded-lg shadow-lg bg-white max-w-sm">
 			<img
@@ -13,6 +13,71 @@
 			<div class="p-6">
 				<h5 class="text-gray-900 text-3xl font-bold mb-2">1ºC</h5>
 				<p class="text-gray-700 text-base mb-4">Este equipo se centra en la clase de 1ºC ESO.</p>
+			</div>
+		</div>
+	</a>
+	<a href="/teams/id">
+		<div class="rounded-lg shadow-lg bg-white max-w-sm">
+			<img
+				class="rounded-t-lg"
+				src="https://mdbootstrap.com/img/new/standard/nature/184.jpg"
+				alt="Logo"
+			/>
+			<div class="p-6">
+				<h5 class="text-gray-900 text-3xl font-bold mb-2">4ºC</h5>
+				<p class="text-gray-700 text-base mb-4">Este equipo se centra en la clase de 4ºC ESO.</p>
+			</div>
+		</div>
+	</a>
+	<a href="/teams/id">
+		<div class="rounded-lg shadow-lg bg-white max-w-sm">
+			<img
+				class="rounded-t-lg"
+				src="https://mdbootstrap.com/img/new/standard/nature/184.jpg"
+				alt="Logo"
+			/>
+			<div class="p-6">
+				<h5 class="text-gray-900 text-3xl font-bold mb-2">4ºC</h5>
+				<p class="text-gray-700 text-base mb-4">Este equipo se centra en la clase de 4ºC ESO.</p>
+			</div>
+		</div>
+	</a>
+	<a href="/teams/id">
+		<div class="rounded-lg shadow-lg bg-white max-w-sm">
+			<img
+				class="rounded-t-lg"
+				src="https://mdbootstrap.com/img/new/standard/nature/184.jpg"
+				alt="Logo"
+			/>
+			<div class="p-6">
+				<h5 class="text-gray-900 text-3xl font-bold mb-2">4ºC</h5>
+				<p class="text-gray-700 text-base mb-4">Este equipo se centra en la clase de 4ºC ESO.</p>
+			</div>
+		</div>
+	</a>
+	<a href="/teams/id">
+		<div class="rounded-lg shadow-lg bg-white max-w-sm">
+			<img
+				class="rounded-t-lg"
+				src="https://mdbootstrap.com/img/new/standard/nature/184.jpg"
+				alt="Logo"
+			/>
+			<div class="p-6">
+				<h5 class="text-gray-900 text-3xl font-bold mb-2">4ºC</h5>
+				<p class="text-gray-700 text-base mb-4">Este equipo se centra en la clase de 4ºC ESO.</p>
+			</div>
+		</div>
+	</a>
+	<a href="/teams/id">
+		<div class="rounded-lg shadow-lg bg-white max-w-sm">
+			<img
+				class="rounded-t-lg"
+				src="https://mdbootstrap.com/img/new/standard/nature/184.jpg"
+				alt="Logo"
+			/>
+			<div class="p-6">
+				<h5 class="text-gray-900 text-3xl font-bold mb-2">4ºC</h5>
+				<p class="text-gray-700 text-base mb-4">Este equipo se centra en la clase de 4ºC ESO.</p>
 			</div>
 		</div>
 	</a>
